@@ -1,0 +1,1 @@
+Search.setIndex({objects:{},terms:{index:0,search:0,modul:0,indic:0,health:0,tabl:0,page:0,care:0},objtypes:{},titles:["Health Care"],objnames:{},filenames:["index"]})
